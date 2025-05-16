@@ -12,9 +12,9 @@
 
 ---
 
-### 🌐 Connect with Me:
+### 📫 How to reach me:
 
-_No social links available_
+📧 **Email:** taghaviii.reza@gmail.com
 
 ---
 

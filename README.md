@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm MohammadReza Taghavi</h1>
+<h1 align="center">👋 Hi, I'm Reza</h1>
 <h3 align="center">Front-End Developer | UI/UX Designer | IoT Developer</h3>
 
 ---

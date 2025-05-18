@@ -18,3 +18,12 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
+
+---
+
+## 📬 Contact Me
+
+<p align="left">
+  <a href="mailto:taghaviii.reza@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Add more links when you want -->
+</p>
